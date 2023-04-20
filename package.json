@@ -1,6 +1,6 @@
 {
   "name": "node-knife4j",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "node knife4j",
   "main": "index.js",
   "scripts": {
