@@ -2,7 +2,7 @@
   "name": "node-knife4j",
   "version": "1.0.3",
   "description": "node knife4j",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
